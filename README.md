@@ -1,5 +1,4 @@
 # hello-world
-just another repository
 
 Hi, I'm new to programming. Since I have the whole summer to do anything,
 I decided to make my own game.
